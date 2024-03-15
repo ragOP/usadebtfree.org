@@ -1,7 +1,7 @@
 {
     "rewrites": [
       { "source": "/fbrl1", "destination": "/path1.html" },
-      { "source": "/path2", "destination": "/path2.html" }
+      { "source": "/fbmd1", "destination": "/path2.html" }
     ]
   }
   
